@@ -1,10 +1,10 @@
 # Sales and Profit Performance Dashboard 📊
 
 ## Project Overview
-This project focuses on analyzing sales and profit data using Tableau. The objective is to explore trends, evaluate profitability, and create an interactive dashboard that helps stakeholders make data-driven decisions.
+This project focuses on analyzing sales and profit data using Tableau. The objective is to explore trends, evaluate profitability, and create an interactive dashboard that helps stakeholders make data driven decisions.
 
 ## Dataset
-- Sales dataset containing customer, order, and product-level information
+- Sales dataset containing customer, order, and product level information
 - Includes fields such as Order Date, Region, Sales, Profit, Category, and Customer Segment
 
 ## Tools Used
@@ -22,7 +22,7 @@ This project focuses on analyzing sales and profit data using Tableau. The objec
 
 ## Exploratory Data Analysis
 - Analyzed sales and profit trends over time
-- Evaluated regional and category-wise profitability
+- Evaluated regional and category wise profitability
 - Studied customer segment contribution to sales
 - Explored relationships between:
   - Order Quantity vs Profit Margin
@@ -35,12 +35,12 @@ This project focuses on analyzing sales and profit data using Tableau. The objec
 - Dashboard actions and tooltips for enhanced interactivity
 
 ## Key Insights
-- Identified top-performing regions and product categories
-- Highlighted low-profit categories requiring attention
+- Identified top performing regions and product categories
+- Highlighted low profit categories requiring attention
 - Discovered pricing and order quantity patterns affecting profitability
 
 ## Screenshots
-Screenshots of the dashboard are included in the `Screenshots` folder.
+Screenshots of the dashboard are included in the `screenshots` folder.
 
 ## Author
 Syed Basid
